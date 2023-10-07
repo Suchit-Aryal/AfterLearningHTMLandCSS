@@ -1,0 +1,238 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #FFFCF6;
+}
+/*Pages*/
+.background{background-image: linear-gradient(
+        135deg,
+        #8c52ff,
+        #5ce1e6
+    );
+    width: 100%;
+    height: 90vh;}
+.firstpage{
+    
+    padding: 30px 0;
+}
+.second-page{
+    width: 100%;
+    height: 80vh;
+}
+.linee{
+    width: 100%;
+    height: 5px;
+    background-color: rgb(151, 151, 151);
+}
+.third-page{
+    width: 100%;
+    height: 120vh;
+    padding-top: 30px;
+}
+.fourth-page{
+    width: 100%;
+    height: 75vh;
+    padding-top: 30px;
+
+}
+/* Headers*/
+
+h1{
+    color: #DDF4FF;
+}
+/*Body*/
+.mybare{
+    color: #DDF4FF;
+    font-size: 80px;
+    font-family: 'NText',sans-serif;
+}
+.h12{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h11{
+    width: 80%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#MyName{
+    font-family: 'Mainh',serif;
+    font-size: 145px;
+    margin-left: 350px;
+    padding: 20px 20px;
+    margin-top: 0px;
+}
+.helloi{
+    width: 100%;
+    height: 100px;
+}
+.helloj{
+    width: 100%;
+    height: 100px;
+}
+.Helloa{
+    color: #00A0DB;
+    font-size: 110px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.lekhne-kura{
+    font-size: 40px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #545454;
+}
+.web-design{
+    width: 80%;
+    padding: 10px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+}
+.headd{
+    color: #915110;
+    font-size: 43.2pt;
+}
+.hehha{
+    font-size: 34pt;
+}
+
+.headd2{
+    color: #915110;
+    font-size: 20pt;
+    text-align: center;
+    padding: 20px 0;
+    margin: 20px 0  ;
+}
+.Hellob{
+    color: #00A0DB;
+    font-size: 110px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.finaly{
+    font-size: 32pt;
+    width: 70%;
+    margin: 0 300px;
+    text-align: center;
+}
+
+/*Pictures*/
+.picturess{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+img{
+    height: 380px;
+}
+#herokto{
+    border-radius: 50%;
+    padding: 2px;
+}
+.herd{
+    display: flex;
+    justify-content: center;
+}
+.giff{
+    height: 300px;
+    padding: 10px;
+    margin: 10px 200px;
+}
+/*Button*/
+.action-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 140px 0;
+    border: none;
+}
+.btn{
+    padding: 20px 20px;
+    border-radius: 35px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    background: linear-gradient(
+        135deg,
+        #8c52ff,
+        #5ce1e6
+    );
+}
+.btn:hover{
+    cursor: pointer;
+    scale: 1.1;
+}
+.btn:active{
+    scale: 0.7;
+}
+/*Fotter*/
+.fotter{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.lisst li{
+    list-style: none;
+}
+.lisst ul{
+    display: flex;
+    gap: 50px;
+}
+
+.copyrightt{
+    margin-left: 200px;
+}
+button{
+    outline: none;
+    cursor: pointer;
+}
+.icons{
+    height: 40px;
+}
+
+.lisst{
+    margin-right: 50px;
+    margin-top: 20px;
+    padding: 10px;
+}
+/*Header*/
+a{
+    text-decoration: none;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.hheeha{
+    font-size: 30px;
+    padding: 10px;
+    background-color: #9d8dbd;
+    border-radius: 35px;
+    border: none;
+}
+.Suchit{
+    font-size: 50px;
+}
+.hheeha:hover{
+    scale: 1.2;
+}
+
+.hheeha:active{
+    scale: 0.9;
+}
